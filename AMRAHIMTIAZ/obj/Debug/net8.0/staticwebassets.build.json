@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zRHtWgFWXewt/t6oMxFEFEu24Ht2yReZ98AWauA94hs=",
+  "Hash": "NNJuZLOzEh2ywST1hJKFN27v1veSpZ5FfrP0a3lITcs=",
   "Source": "AMRAHIMTIAZ",
   "BasePath": "_content/AMRAHIMTIAZ",
   "Mode": "Default",
@@ -72,6 +72,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\amrah\\source\\repos\\AMRAHIMTIAZ\\AMRAHIMTIAZ\\wwwroot\\css\\StyleSheet.css",
+      "SourceId": "AMRAHIMTIAZ",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\amrah\\source\\repos\\AMRAHIMTIAZ\\AMRAHIMTIAZ\\wwwroot\\",
+      "BasePath": "_content/AMRAHIMTIAZ",
+      "RelativePath": "css/StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\StyleSheet.css"
     },
     {
       "Identity": "C:\\Users\\amrah\\source\\repos\\AMRAHIMTIAZ\\AMRAHIMTIAZ\\wwwroot\\favicon.ico",

@@ -11,12 +11,36 @@
       "RelativeMoniker": "D:0:0:{B51ACF40-6754-4103-B2D7-27A241EC40C8}|AMRAHIMTIAZ\\AMRAHIMTIAZ.csproj|solutionrelative:amrahimtiaz\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B51ACF40-6754-4103-B2D7-27A241EC40C8}|AMRAHIMTIAZ\\AMRAHIMTIAZ.csproj|c:\\users\\amrah\\source\\repos\\amrahimtiaz\\amrahimtiaz\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B51ACF40-6754-4103-B2D7-27A241EC40C8}|AMRAHIMTIAZ\\AMRAHIMTIAZ.csproj|solutionrelative:amrahimtiaz\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B51ACF40-6754-4103-B2D7-27A241EC40C8}|AMRAHIMTIAZ\\AMRAHIMTIAZ.csproj|c:\\users\\amrah\\source\\repos\\amrahimtiaz\\amrahimtiaz\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B51ACF40-6754-4103-B2D7-27A241EC40C8}|AMRAHIMTIAZ\\AMRAHIMTIAZ.csproj|solutionrelative:amrahimtiaz\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51ACF40-6754-4103-B2D7-27A241EC40C8}|AMRAHIMTIAZ\\AMRAHIMTIAZ.csproj|c:\\users\\amrah\\source\\repos\\amrahimtiaz\\amrahimtiaz\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B51ACF40-6754-4103-B2D7-27A241EC40C8}|AMRAHIMTIAZ\\AMRAHIMTIAZ.csproj|solutionrelative:amrahimtiaz\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B51ACF40-6754-4103-B2D7-27A241EC40C8}|AMRAHIMTIAZ\\AMRAHIMTIAZ.csproj|c:\\users\\amrah\\source\\repos\\amrahimtiaz\\amrahimtiaz\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{B51ACF40-6754-4103-B2D7-27A241EC40C8}|AMRAHIMTIAZ\\AMRAHIMTIAZ.csproj|solutionrelative:amrahimtiaz\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51ACF40-6754-4103-B2D7-27A241EC40C8}|AMRAHIMTIAZ\\AMRAHIMTIAZ.csproj|c:\\users\\amrah\\source\\repos\\amrahimtiaz\\amrahimtiaz\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B51ACF40-6754-4103-B2D7-27A241EC40C8}|AMRAHIMTIAZ\\AMRAHIMTIAZ.csproj|solutionrelative:amrahimtiaz\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51ACF40-6754-4103-B2D7-27A241EC40C8}|AMRAHIMTIAZ\\AMRAHIMTIAZ.csproj|c:\\users\\amrah\\source\\repos\\amrahimtiaz\\amrahimtiaz\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B51ACF40-6754-4103-B2D7-27A241EC40C8}|AMRAHIMTIAZ\\AMRAHIMTIAZ.csproj|solutionrelative:amrahimtiaz\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51ACF40-6754-4103-B2D7-27A241EC40C8}|AMRAHIMTIAZ\\AMRAHIMTIAZ.csproj|c:\\users\\amrah\\source\\repos\\amrahimtiaz\\amrahimtiaz\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B51ACF40-6754-4103-B2D7-27A241EC40C8}|AMRAHIMTIAZ\\AMRAHIMTIAZ.csproj|solutionrelative:amrahimtiaz\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51ACF40-6754-4103-B2D7-27A241EC40C8}|AMRAHIMTIAZ\\AMRAHIMTIAZ.csproj|c:\\users\\amrah\\source\\repos\\amrahimtiaz\\amrahimtiaz\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B51ACF40-6754-4103-B2D7-27A241EC40C8}|AMRAHIMTIAZ\\AMRAHIMTIAZ.csproj|solutionrelative:amrahimtiaz\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51ACF40-6754-4103-B2D7-27A241EC40C8}|AMRAHIMTIAZ\\AMRAHIMTIAZ.csproj|c:\\users\\amrah\\source\\repos\\amrahimtiaz\\amrahimtiaz\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B51ACF40-6754-4103-B2D7-27A241EC40C8}|AMRAHIMTIAZ\\AMRAHIMTIAZ.csproj|solutionrelative:amrahimtiaz\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B51ACF40-6754-4103-B2D7-27A241EC40C8}|AMRAHIMTIAZ\\AMRAHIMTIAZ.csproj|c:\\users\\amrah\\source\\repos\\amrahimtiaz\\amrahimtiaz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +58,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\amrah\\source\\repos\\AMRAHIMTIAZ\\AMRAHIMTIAZ\\wwwroot\\css\\StyleSheet.css",
+              "RelativeDocumentMoniker": "AMRAHIMTIAZ\\wwwroot\\css\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\amrah\\source\\repos\\AMRAHIMTIAZ\\AMRAHIMTIAZ\\wwwroot\\css\\StyleSheet.css",
+              "RelativeToolTip": "AMRAHIMTIAZ\\wwwroot\\css\\StyleSheet.css",
+              "ViewState": "AQIAAAY4AAAAAAAAAAAqwBo4AAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-22T12:28:18.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\amrah\\source\\repos\\AMRAHIMTIAZ\\AMRAHIMTIAZ\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "AMRAHIMTIAZ\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\amrah\\source\\repos\\AMRAHIMTIAZ\\AMRAHIMTIAZ\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "AMRAHIMTIAZ\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-22T12:24:45.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\amrah\\source\\repos\\AMRAHIMTIAZ\\AMRAHIMTIAZ\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "AMRAHIMTIAZ\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\amrah\\source\\repos\\AMRAHIMTIAZ\\AMRAHIMTIAZ\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "AMRAHIMTIAZ\\Views\\Students\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T12:16:28.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\amrah\\source\\repos\\AMRAHIMTIAZ\\AMRAHIMTIAZ\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AMRAHIMTIAZ\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\amrah\\source\\repos\\AMRAHIMTIAZ\\AMRAHIMTIAZ\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AMRAHIMTIAZ\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T12:16:12.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\amrah\\source\\repos\\AMRAHIMTIAZ\\AMRAHIMTIAZ\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "AMRAHIMTIAZ\\Views\\Home\\Privacy.cshtml",
@@ -46,7 +118,19 @@
               "RelativeToolTip": "AMRAHIMTIAZ\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-22T04:40:44.341Z",
+              "WhenOpened": "2024-03-22T04:40:44.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\amrah\\source\\repos\\AMRAHIMTIAZ\\AMRAHIMTIAZ\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AMRAHIMTIAZ\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\amrah\\source\\repos\\AMRAHIMTIAZ\\AMRAHIMTIAZ\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AMRAHIMTIAZ\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T03:53:41.344Z",
               "EditorCaption": ""
             },
             {
@@ -57,14 +141,37 @@
               "RelativeDocumentMoniker": "AMRAHIMTIAZ\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\amrah\\source\\repos\\AMRAHIMTIAZ\\AMRAHIMTIAZ\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "AMRAHIMTIAZ\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-22T04:18:17.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-22T04:18:17.064Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\amrah\\source\\repos\\AMRAHIMTIAZ\\AMRAHIMTIAZ\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AMRAHIMTIAZ\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\amrah\\source\\repos\\AMRAHIMTIAZ\\AMRAHIMTIAZ\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "AMRAHIMTIAZ\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T12:16:39.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\amrah\\source\\repos\\AMRAHIMTIAZ\\AMRAHIMTIAZ\\Views\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "AMRAHIMTIAZ\\Views\\Students\\Details.cshtml",
+              "ToolTip": "C:\\Users\\amrah\\source\\repos\\AMRAHIMTIAZ\\AMRAHIMTIAZ\\Views\\Students\\Details.cshtml",
+              "RelativeToolTip": "AMRAHIMTIAZ\\Views\\Students\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T12:16:41.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "C:\\Users\\amrah\\source\\repos\\AMRAHIMTIAZ\\AMRAHIMTIAZ\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "AMRAHIMTIAZ\\Views\\Shared\\_Layout.cshtml.css",
@@ -72,25 +179,11 @@
               "RelativeToolTip": "AMRAHIMTIAZ\\Views\\Shared\\_Layout.cshtml.css",
               "ViewState": "AQIAAB0AAAAAAAAAAAAmwCsAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-22T04:16:11.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-22T04:16:11.324Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\amrah\\source\\repos\\AMRAHIMTIAZ\\AMRAHIMTIAZ\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AMRAHIMTIAZ\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\amrah\\source\\repos\\AMRAHIMTIAZ\\AMRAHIMTIAZ\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AMRAHIMTIAZ\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAwwB0AAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-22T03:53:41.344Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\amrah\\source\\repos\\AMRAHIMTIAZ\\AMRAHIMTIAZ\\Program.cs",
               "RelativeDocumentMoniker": "AMRAHIMTIAZ\\Program.cs",
@@ -98,12 +191,11 @@
               "RelativeToolTip": "AMRAHIMTIAZ\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T03:48:21.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-22T03:48:21.63Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "C:\\Users\\amrah\\source\\repos\\AMRAHIMTIAZ\\AMRAHIMTIAZ\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "AMRAHIMTIAZ\\Controllers\\StudentsController.cs",

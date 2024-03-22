@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\AMRAHIMTIAZ.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\amrah\\source\\repos\\AMRAHIMTIAZ\\AMRAHIMTIAZ\\wwwroot\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet.css"
+    },
+    {
       "Id": "C:\\Users\\amrah\\source\\repos\\AMRAHIMTIAZ\\AMRAHIMTIAZ\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

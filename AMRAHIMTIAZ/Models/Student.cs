@@ -14,4 +14,5 @@ public partial class Student
     public int? Age { get; set; }
 
     public string? Contact { get; set; }
+
 }
